@@ -4,6 +4,7 @@
   "description": "A vulnerable todo demo application",
   "dependencies": {
     "express": "3.0.0",
+    "ajv": "6.12.2",
     "firebase": "4.5.2"
   }
 }
